@@ -25,5 +25,7 @@ The analysis starts of with an exploratory clustering where I tried different te
     - Pure Goal Stopper have the highest scores in defending, however the balanced defender have higher score in all other columns
 - Middle-Man
     - Players that are great at passing and dribbling, but also have decent score all around. The are most likely playing in the midfield and are great at playmaking, but also decent at finishing and defending.
-
+<br>
+<br>
+<br>
 **In the attached files the code can be found, as well as a google drive used to present the project**
