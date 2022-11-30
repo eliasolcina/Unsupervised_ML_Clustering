@@ -1,4 +1,5 @@
 # Unsupervised_ML_Clustering
+*Python*
 Project focused on unsupervised Machine Learning, where I used K-Means clustering to cluster football players based on data from FIFA 2015 (the game).
 
 Dataset from: https://www.kaggle.com/datasets/stefanoleone992/fifa-20-complete-player-dataset (30th of November 2022)
@@ -21,3 +22,5 @@ Key differences between the clusters:
     - Pure Goal Stopper have the highest scores in defending, however the balanced defender have higher score in all other columns
 - Middle-Man
     - Players that are great at passing and dribbling, but also have decent score all around. The are most likely playing in the midfield and are great at playmaking, but also decent at finishing and defending.
+
+**In the attached files the code can be found, as well as a google drive used to present the project**
